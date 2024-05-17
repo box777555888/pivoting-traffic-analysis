@@ -41,7 +41,7 @@ interface shown in ligolo console
 # Pivot to other subnet
 Add route to the internal subnet, start tunnelling through the agent
 ![5_addroute.png](screenss/5_addroute.png)  
-![6_tunnelstart.png](6_tunnelstart.png)  
+![6_tunnelstart.png](screenss/6_tunnelstart.png)  
 
 Add listener on agent for kali web server.
 ```zsh
